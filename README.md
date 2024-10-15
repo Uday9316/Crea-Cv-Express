@@ -1,4 +1,4 @@
-## RESUME BUILDER
+## CreaCv Express RESUME BUILDER App
 <p>In today's competitive job market, a well-crafted resume is essential for job seekers to showcase their skills and experiences to prospective employers. To meet the demand for an easy-to-use and efficient resume creation platform, we developed a web application using contemporary technologies such as React, Tailwind CSS, Bootstrap, and Firebase backend services. This report details the design and implementation process of our resume builder website.
 
 The primary goal of the project was to provide users with a smooth experience in creating customized resumes, while ensuring scalability and robustness through the integration of Firebase Firestore for backend functionalities. React was utilized to develop a dynamic and interactive user interface, allowing users to easily navigate the resume-building process. Tailwind CSS and Bootstrap were used to ensure a responsive design and visual appeal, improving the overall user experience across various devices and screen sizes.
